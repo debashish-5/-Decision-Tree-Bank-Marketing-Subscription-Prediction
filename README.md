@@ -1,2 +1,3 @@
 This Repo is good understanding for bignners
 
+who has fully new in data scinece and never dont kno anything
